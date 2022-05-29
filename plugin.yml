@@ -1,0 +1,21 @@
+name: SOLOCodeMaster
+version: "빌드3"
+api: 4.0.0
+author: solo
+main: solo\SOLOCodeMaster
+commands:
+  iv:
+    usage: /iv
+    description: 손에 들고 있는 아이템 코드
+
+  아이템코드:
+    usage: /아이템코드
+    description: 아이템코드 검색 명령어
+
+  이펙트코드:
+    usage: /이펙트코드 [페이지]
+    description: 이펙트코드 확인
+
+  인챈트코드:
+    usage: /인챈트코드 [페이지]
+    description: 인챈트코드 확인
